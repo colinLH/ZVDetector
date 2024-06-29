@@ -1,0 +1,6 @@
+{
+    "b": {
+        "type": "<class 'zigpy.types.basic.uint16_t'>",
+        "value": 65535
+    }
+}
